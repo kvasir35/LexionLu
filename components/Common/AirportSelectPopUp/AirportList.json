@@ -1,0 +1,111 @@
+[
+	{
+		"category": "Taiwan",
+		"info": [
+			{
+				"city": "Taipei",
+				"country": "Taiwan",
+				"airport": "Taiwan Taoyuan International Airport",
+				"abbreviation": "TPE"
+			},
+			{
+				"city": "Kaohsiung",
+				"country": "Taiwan",
+				"airport": "Kaohsiung International Airport",
+				"abbreviation": "KHH"
+			},
+			{
+				"city": "Taichung",
+				"country": "Taiwan",
+				"airport": "Taichung International Airport",
+				"abbreviation": "RMQ"
+			}
+		]
+	},
+	{
+		"category": "Hong Kong/Macao",
+		"info": [
+			{
+				"city": "Hong Kong",
+				"country": "Hong Kong",
+				"airport": "Hong Kong International Airport",
+				"abbreviation": "HKG"
+			},
+			{
+				"city": "Macau",
+				"country": "Macao",
+				"airport": "Macau International Airport",
+				"abbreviation": "MFM"
+			}
+		]
+	},
+	{
+		"category": "NorthEast Asia",
+		"info": [
+			{
+				"city": "Tokyo",
+				"country": "Japan",
+				"airport": "Narita International Airport",
+				"abbreviation": "NRT"
+			},
+			{
+				"city": "Seoul",
+				"country": "South Korea",
+				"airport": "Incheon International Airport",
+				"abbreviation": "ICN"
+			},
+			{
+				"city": "Beijing",
+				"country": "China",
+				"airport": "Beijing Capital International Airport",
+				"abbreviation": "PEK"
+			}
+		]
+	},
+	{
+		"category": "SouthEast Asia",
+		"info": [
+			{
+				"city": "Bangkok",
+				"country": "Thailand",
+				"airport": "Suvarnabhumi Airport",
+				"abbreviation": "BKK"
+			},
+			{
+				"city": "Singapore",
+				"country": "Singapore",
+				"airport": "Singapore Changi Airport",
+				"abbreviation": "SIN"
+			},
+			{
+				"city": "Kuala Lumpur",
+				"country": "Malaysia",
+				"airport": "Kuala Lumpur International Airport",
+				"abbreviation": "KUL"
+			}
+		]
+	},
+	{
+		"category": "North America",
+		"info": [
+			{
+				"city": "New York",
+				"country": "United States",
+				"airport": "John F. Kennedy International Airport",
+				"abbreviation": "JFK"
+			},
+			{
+				"city": "Los Angeles",
+				"country": "United States",
+				"airport": "Los Angeles International Airport",
+				"abbreviation": "LAX"
+			},
+			{
+				"city": "Toronto",
+				"country": "Canada",
+				"airport": "Toronto Pearson International Airport",
+				"abbreviation": "YYZ"
+			}
+		]
+	}
+]

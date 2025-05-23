@@ -1,0 +1,45 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+html,
+body {
+	color: #fff;
+}
+
+.text-shadow {
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+.container {
+	max-width: 1366px;
+	margin: 0 auto;
+	padding-right: 1.5rem;
+	padding-left: 1.5rem;
+}
+
+.bg-opacity-var {
+	--bg-opacity: 0.8;
+}
+
+button {
+	cursor: pointer;
+}
+
+@theme {
+	--color-1: #0f2d3c; /*Dark blue*/
+	--color-2: #48324f; /*Purple*/
+	--color-3: #312522; /* Brown */
+	--color-4: #794425; /*Light brown*/
+	--color-5: #b08061; /* yellow */
+	--color-6: #a6924e; /* gold */
+	--color-7: #fff8f2; /*Yellow light */
+	--color-8: #f9c78b; /* light gold */
+	--color-9: #08202d; /* some kind of blue */
+	--color-10: #f7eae1; /* light pink */
+	--color-11: #e1d3ca; /* light grey */
+	--color-12: #767676; /* Light grey */
+	--color-13: #7e7267; /* very light brown */
+	--color-14: #3b2641; /* dark purple */
+
+	--bg-opacity: 0.8;
+}
