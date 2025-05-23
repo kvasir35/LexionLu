@@ -65,11 +65,7 @@ const formatDate = (date?: Date): string => {
 
 				<template v-if="type === CalendarType.simple">
 					<span class="text-semibold text-brown-darker text-4">
-						{{ formatDate(dateRange.start) }}
-					</span>
-					- Return date
-					<span class="text-semibold text-brown-darker text-4">
-						{{ formatDate(dateRange.end) }}
+						{{ formatDate(date) }}
 					</span>
 				</template>
 			</p>

@@ -69,6 +69,7 @@ const close = () => {
 
 const onTripChange = (val: string) => {
 	trip.value = val;
+	dateTicket.value = null;
 };
 
 const getCalendarType = () => {
